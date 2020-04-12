@@ -1,6 +1,8 @@
 {
   "dependencies": {
-    "discord.js": "discordjs/discord.js"
+    "@discordjs/opus": "^0.1.0",
+    "discord.js": "discordjs/discord.js",
+    "ffmpeg-static": "^4.1.1"
   },
   "name": "tuto-bot",
   "version": "0.1.0",
