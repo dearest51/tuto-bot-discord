@@ -1,5 +1,12 @@
 {
   "dependencies": {
     "discord.js": "discordjs/discord.js"
-  }
+  },
+  "name": "tuto-bot",
+  "version": "0.1.0",
+  "description": "tuto discord bot yt",
+  "main": "main.js",
+  "repository": "https://github.com/dearest51/tuto-bot-discord.git",
+  "author": "<dearest51@gmail.com>",
+  "license": "MIT"
 }
